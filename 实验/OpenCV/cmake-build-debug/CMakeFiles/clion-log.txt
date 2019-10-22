@@ -1,0 +1,4 @@
+/Volumes/应用/应用/JetBrain/apps/CLion/ch-0/191.6183.77/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/xq/CLionProjects/OpenCV
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/xq/CLionProjects/OpenCV/cmake-build-debug
