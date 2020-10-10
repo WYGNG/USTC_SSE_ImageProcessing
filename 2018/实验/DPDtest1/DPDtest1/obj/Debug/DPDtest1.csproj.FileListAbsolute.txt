@@ -1,0 +1,19 @@
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\bin\Debug\DPDtest1.exe
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\bin\Debug\DPDtest1.pdb
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\DPDtest1.Form1.resources
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\DPDtest1.Properties.Resources.resources
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\DPDtest1.csproj.GenerateResource.Cache
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\DPDtest1.exe
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\DPDtest1.pdb
+C:\Users\PAN\Documents\Visual Studio 2008\Projects\DPDtest1\DPDtest1\obj\Debug\DPDtest1.exe
+C:\Users\PAN\Documents\Visual Studio 2008\Projects\DPDtest1\DPDtest1\obj\Debug\DPDtest1.pdb
+G:\Users\WYG\桌面\科软\2_学习\4_专业课_选修\高级图像处理\2018\实验\DPDtest1\DPDtest1\bin\Debug\DPDtest1.exe
+G:\Users\WYG\桌面\科软\2_学习\4_专业课_选修\高级图像处理\2018\实验\DPDtest1\DPDtest1\bin\Debug\DPDtest1.pdb
+G:\Users\WYG\桌面\科软\2_学习\4_专业课_选修\高级图像处理\2018\实验\DPDtest1\DPDtest1\obj\Debug\DPDtest1.csprojAssemblyReference.cache
+G:\Users\WYG\桌面\科软\2_学习\4_专业课_选修\高级图像处理\2018\实验\DPDtest1\DPDtest1\obj\Debug\DPDtest1.Form1.resources
+G:\Users\WYG\桌面\科软\2_学习\4_专业课_选修\高级图像处理\2018\实验\DPDtest1\DPDtest1\obj\Debug\DPDtest1.Properties.Resources.resources
+G:\Users\WYG\桌面\科软\2_学习\4_专业课_选修\高级图像处理\2018\实验\DPDtest1\DPDtest1\obj\Debug\DPDtest1.csproj.GenerateResource.cache
+G:\Users\WYG\桌面\科软\2_学习\4_专业课_选修\高级图像处理\2018\实验\DPDtest1\DPDtest1\obj\Debug\DPDtest1.csproj.CoreCompileInputs.cache
+G:\Users\WYG\桌面\科软\2_学习\4_专业课_选修\高级图像处理\2018\实验\DPDtest1\DPDtest1\obj\Debug\DPDtest1.exe
+G:\Users\WYG\桌面\科软\2_学习\4_专业课_选修\高级图像处理\2018\实验\DPDtest1\DPDtest1\obj\Debug\DPDtest1.pdb
